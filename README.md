@@ -36,5 +36,5 @@ This project explores ecommerce sales data using SQL to extract insights on perf
 ## Data Source
 - Kaggle: Ecommerce Sales Dataset (2024_2025)
 - File size: ~568 KB
-- Link: https://www.kaggle.com/datasets/prince7489/e-commerce-sales?utm_source=chatgpt.com
+- Link: https://www.kaggle.com/datasets/prince7489/e-commerce-sales
 - Used for educational and portfolio purposes only
