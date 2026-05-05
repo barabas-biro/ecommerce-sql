@@ -1,11 +1,11 @@
-# Ecommerce SQL Analysis
+# E-Commerce SQL Analysis
 
-SQL-based ecommerce analysis covering KPIs, product contribution, and sales trends.
+SQL-based e-commerce analysis covering KPIs, product contribution, and sales trends.
 
 ---
 
 ## Project Overview
-This project explores ecommerce sales data using SQL to extract insights on performance, profitability and trends.
+This project explores e-commerce sales data using SQL to extract insights on performance, profitability and trends.
 
 ---
 
@@ -34,7 +34,7 @@ This project explores ecommerce sales data using SQL to extract insights on perf
 - `ecommerce_analytics_queries.sql` - full MySQL analysis queries
 
 ## Data Source
-- Kaggle: Ecommerce Sales Dataset (2024_2025)
+- Kaggle: E-commerce Sales Dataset (2024_2025)
 - File size: ~568 KB
 - Link: https://www.kaggle.com/datasets/prince7489/e-commerce-sales
 - Used for educational and portfolio purposes only
