@@ -33,7 +33,7 @@ SELECT customer_name,
        ROUND(AVG(sales),2) AS average_revenue
 FROM orders
 GROUP BY customer_name
-ORDER BY total_spend DESC
+ORDER BY total_revenue DESC
 LIMIT 10;
 
 -- Top 10 customers by profit
@@ -50,7 +50,7 @@ SELECT customer_name,
        ROUND(sum(profit) /NULLIF(SUM(sales),0)*100,2) AS profit_margin_pct
 FROM orders
 GROUP BY customer_name
-ORDER BY profit_pct DESC
+ORDER BY profit_margin_pct DESC
 LIMIT 10;
 
 -- Total sales by month
